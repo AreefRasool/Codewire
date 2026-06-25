@@ -28,37 +28,34 @@ Whether you're a student validating textbook formulas or an engineer sanity-chec
 ## 📸 Preview
 
 ### Hero Section & Live KPI Dashboard
-![Hero Dashboard](assets/01-hero-dashboard.png)
+![Hero Dashboard](01-hero-dashboard.png)
 
 ### Executive Dashboard — Engineering Health Gauge
-![Executive Dashboard Gauge](assets/02-executive-dashboard-gauge.png)
+![Executive Dashboard Gauge](02-executive-dashboard-gauge.png)
 
 ### ⚡ Voltage Drop Analysis
-![Voltage Analysis](assets/03-voltage-analysis.png)
+![Voltage Analysis](03-voltage-analysis.png)
 
 ### 🔌 Wire Sizing
-![Wire Sizing](assets/04-wire-sizing.png)
+![Wire Sizing](04-wire-sizing.png)
 
 ### 📦 Conduit Design
-![Conduit Design](assets/05-conduit-design.png)
+![Conduit Design](05-conduit-design.png)
 
 ### 📐 Box Fill Calculator
-![Box Fill](assets/06-box-fill.png)
+![Box Fill](06-box-fill.png)
 
 ### 🔥 Ampacity Lookup
-![Ampacity](assets/07-ampacity.png)
+![Ampacity](07-ampacity.png)
 
 ### 📋 Material Estimator
-![Material Estimator](assets/08-material-estimator.png)
+![Material Estimator](08-material-estimator.png)
 
 ### 📊 Executive Analytics — Compliance Meter & Summary
-![Executive Analytics](assets/09-executive-analytics.png)
-
-### 📂 Project Manager — Save Project
-![Project Manager Save](assets/10-project-manager-save.png)
+![Executive Analytics](09-executive-analytics.png)
 
 ### 📄 Executive PDF Report Generation
-![PDF Report Generation](assets/11-project-manager-pdf-report.png)
+![PDF Report Generation](10-project-manager-pdf-report.png)
 
 ---
 
@@ -94,30 +91,6 @@ python codewire_pro.py
 The app will launch locally and also generate a temporary public link (via Gradio's `share=True`).
 
 > 💡 **Running in Google Colab / Kaggle?** Just upload `codewire_pro.py`, install dependencies with `!pip install -r requirements.txt`, and run the script — Gradio will give you a shareable public link.
-
----
-
-## 📂 Project Structure
-
-```
-.
-├── codewire_pro.py       # Main application file
-├── requirements.txt      # Python dependencies
-├── assets/               # Screenshots used in README
-│   ├── 01-hero-dashboard.png
-│   ├── 02-executive-dashboard-gauge.png
-│   ├── 03-voltage-analysis.png
-│   ├── 04-wire-sizing.png
-│   ├── 05-conduit-design.png
-│   ├── 06-box-fill.png
-│   ├── 07-ampacity.png
-│   ├── 08-material-estimator.png
-│   ├── 09-executive-analytics.png
-│   ├── 10-project-manager-save.png
-│   └── 11-project-manager-pdf-report.png
-├── .gitignore
-└── README.md
-```
 
 ---
 
