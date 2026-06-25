@@ -122,7 +122,7 @@ Wire sizing follows standard AWG current-capacity tiers, and all calculations up
 ## 👤 Author
 
 **Areef Rasool**
-BSAI Student | AI, Computer Vision & Networking Enthusiast
+BSAI Student | AI, Development & Networking Enthusiast
 
 ---
 
